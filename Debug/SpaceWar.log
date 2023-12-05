@@ -1,0 +1,24 @@
+﻿  Main.cpp
+c:\users\sashk\source\repos\spacewar\spacewar\main.cpp(133): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\sashk\source\repos\spacewar\spacewar\main.cpp(146): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\sashk\source\repos\spacewar\spacewar\main.cpp(1335): warning C4018: '<': signed/unsigned mismatch
+c:\users\sashk\source\repos\spacewar\spacewar\main.cpp(1422): warning C4018: '<': signed/unsigned mismatch
+c:\users\sashk\source\repos\spacewar\spacewar\main.cpp(1426): warning C4018: '<': signed/unsigned mismatch
+c:\users\sashk\source\repos\spacewar\spacewar\main.cpp(1491): warning C4018: '<': signed/unsigned mismatch
+c:\users\sashk\source\repos\spacewar\spacewar\main.cpp(1504): warning C4018: '<': signed/unsigned mismatch
+c:\users\sashk\source\repos\spacewar\spacewar\main.cpp(1520): warning C4018: '<': signed/unsigned mismatch
+c:\users\sashk\source\repos\spacewar\spacewar\main.cpp(1551): warning C4018: '<': signed/unsigned mismatch
+c:\users\sashk\source\repos\spacewar\spacewar\main.cpp(1638): warning C4018: '<': signed/unsigned mismatch
+c:\users\sashk\source\repos\spacewar\spacewar\main.cpp(1648): warning C4018: '<': signed/unsigned mismatch
+c:\users\sashk\source\repos\spacewar\spacewar\main.cpp(1687): warning C4018: '<': signed/unsigned mismatch
+c:\users\sashk\source\repos\spacewar\spacewar\main.cpp(1694): warning C4018: '<': signed/unsigned mismatch
+  SpaceWar.vcxproj -> C:\Users\sashk\Source\Repos\SpaceWar\Debug\SpaceWar.exe
+  C:\Users\sashk\Source\Repos\SpaceWar\SpaceWar\Shaders\fragment.frag
+  C:\Users\sashk\Source\Repos\SpaceWar\SpaceWar\Shaders\mvp.vert
+  2 File(s) copied
+  C:\Users\sashk\Source\Repos\SpaceWar\SpaceWar\Resources\Explosion.jpg
+  C:\Users\sashk\Source\Repos\SpaceWar\SpaceWar\Resources\space3.jpg
+  C:\Users\sashk\Source\Repos\SpaceWar\SpaceWar\Resources\SpaceShip1.jpg
+  C:\Users\sashk\Source\Repos\SpaceWar\SpaceWar\Resources\SpaceShip2.jpg
+  C:\Users\sashk\Source\Repos\SpaceWar\SpaceWar\Resources\SpaceShip3.jpg
+  5 File(s) copied
